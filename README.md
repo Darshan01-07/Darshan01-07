@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Darshan01-07/Darshan01-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Snake project
 ![snake gif](https://github.com/Darshan01-07/Darshan01-07/blob/output/github-contribution-grid-snake.gif)
