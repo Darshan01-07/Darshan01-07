@@ -11,12 +11,6 @@
 <br></br>
 
 
-```python
-
-Started with a little bit ;
-Now I don't know how to quit !
-```
-
 <b> Languages 🥸 </b>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
