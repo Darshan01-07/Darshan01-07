@@ -55,5 +55,4 @@
 <br/>
 
 
-![snake gif](https://github.com/Darshan01-07/Darshan01-07/blob/output/github-contribution-grid-snake.gif)
 
