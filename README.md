@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-#### mail: u20cse1057@cit.ac.in / darshan.hazarka07@gmail.com
+#### mail: darshan.hazarka07@gmail.com
 <br/>
 <br/>
 
